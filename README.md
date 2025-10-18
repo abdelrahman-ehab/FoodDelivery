@@ -7,6 +7,9 @@ This project is an end-to-end data analysis of food delivery performance using a
 Here is a preview of the main "Executive Summary" page of the final dashboard.
 
 ![Dashboard Screenshot](DeepDive.PNG)
+![Dashboard Screenshot](Summary.PNG)
+![Dashboard Screenshot](Geo.PNG)
+
 
 ## Key Questions Answered
 The dashboard was built to answer critical business questions, such as:
@@ -29,6 +32,6 @@ The dashboard was built to answer critical business questions, such as:
 
 ## How to Use
 1. Download the repository.
-2. The cleaned data is available in `/data/cleaned_delivery_data.csv`.
-3. The full exploratory data analysis can be viewed in the Jupyter Notebook located in the `/notebooks` folder.
-4. The interactive dashboard can be explored by opening the `.pbix` file in the `/powerbi` folder.
+2. The cleaned data is available in `/cleaned_delivery_data.csv`.
+3. The full exploratory data analysis can be viewed in the Jupyter Notebook.
+4. The interactive dashboard can be explored by opening the.
