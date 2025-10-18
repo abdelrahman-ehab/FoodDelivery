@@ -6,7 +6,7 @@ This project is an end-to-end data analysis of food delivery performance using a
 ## Dashboard Showcase
 Here is a preview of the main "Executive Summary" page of the final dashboard.
 
-![Dashboard Screenshot](DeepDive.png)
+![Dashboard Screenshot](DeepDive.PNG)
 
 ## Key Questions Answered
 The dashboard was built to answer critical business questions, such as:
